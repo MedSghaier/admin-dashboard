@@ -1,0 +1,7 @@
+node_modules/
+/src/fonts/
+/src/js/
+src/css/bootstrap.css
+src/css/font-awesome.css
+src/css/font-awesome.min.css
+package-lock.json
